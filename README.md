@@ -1,4 +1,4 @@
-# GitHub-Action-Project
+# GitHub-Actions-and-Projects
 In this repo we explain about github actions and making projects
 
 # Understanding GitHub Actions:
