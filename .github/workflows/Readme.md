@@ -4,7 +4,7 @@ Certainly! This GitHub Actions YAML file is a configuration for an automated wor
 # Explanation:
 
 ### Workflow Trigger:
-- The workflow is triggered on a push event to the repository.
+The workflow is triggered on a push event to the repository.
 
 ### Job Configuration:
 The workflow defines a single job named build that runs on the latest version of the Ubuntu environment (ubuntu-latest).
