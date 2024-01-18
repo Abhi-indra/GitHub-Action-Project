@@ -2,28 +2,28 @@
 In this repo we explain about github actions and making projects
 
 # Understanding GitHub Actions:
-## Setting Up a Workshop:
+#### 1. Setting Up a Workshop:
 Imagine you're organizing a coding workshop in your favorite city.
 
-## Tasks to Be Done:
+#### 2. Tasks to Be Done:
 In this workshop, there are various tasks to be done: writing code, testing it, and finally, deploying it.
 
-## Coordination and Automation:
+#### 3. Coordination and Automation:
 Now, think of GitHub Actions as a smart assistant who helps you coordinate and automate these tasks.
 
-## The Assistant's Role:
+#### 4. The Assistant's Role:
 Your assistant (GitHub Actions) is like a helper that watches the participants (your code) and takes care of things automatically.
 
-## Automation Example:
+#### 5. Automation Example:
 For instance, if someone submits new code (a participant writes a new piece of code), the assistant (GitHub Actions) immediately checks it (runs tests) to make sure it works well.
 
-## Keeping Things Organized:
+#### 6. Keeping Things Organized:
 GitHub Actions keeps everything organized, just like an efficient workshop manager. It ensures that each task is done correctly and helps you focus on the creative part—writing awesome code!
 
-## Feedback Loop:
+#### 7. Feedback Loop:
 If there's an issue (bugs in the code), GitHub Actions quickly notifies you, just like someone telling you, "Hey, there's a problem with this code!"
 
-## Continuous Assistance:
+#### 8. Continuous Assistance:
 It's like having a constant helper, making sure everything runs smoothly, from writing code to testing and deploying it. It's there to assist you in your coding journey.
 
 # Comparing with Jenkins
